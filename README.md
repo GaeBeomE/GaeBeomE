@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=200&section=header&text=GaeBeomE's%20Git&fontSize=70&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GaeBeomE's%20git&fontSize=70&animation=twinkling)
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeBeomE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
