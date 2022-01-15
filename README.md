@@ -29,5 +29,5 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaeBeomE)](https://github.com/anuraghazra/github-readme-stats)
   </br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhdrlqja6525">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhdrlqja6525">
 </div>
